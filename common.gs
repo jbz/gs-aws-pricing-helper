@@ -25,7 +25,7 @@ function getOdRegion(region) {
 
 function getRiRegion(region) {
   if(region) { return region; }
-  return "ap-northeast-1";
+  return "us-west-1";
 }
 
 function onOpen(e){
